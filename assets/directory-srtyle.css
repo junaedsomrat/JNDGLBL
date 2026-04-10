@@ -1,1 +1,37 @@
 
+body {
+			font-family: Arial, sans-serif;
+			background-color: #f0f0f0;
+		}
+		.container {
+			width: 50%;
+			margin: 50px auto;
+			text-align: center;
+		}
+		ul {
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+		li {
+			margin-bottom: 10px;
+			text-align: left;
+		}
+		a {
+			text-decoration: none;
+			color: #337ab7;
+			margin-left: 10px;
+		}
+		a:hover {
+			color: #23527c;
+		}
+		.folder-icon {
+			width: 20px;
+			height: 20px;
+			vertical-align: middle;
+		}
+		.home {
+		        text-align: center;
+		        display: flex;
+		        align-items: center;
+    }
